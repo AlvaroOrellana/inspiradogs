@@ -51,3 +51,7 @@ export const ImageWrapper = styled.div`
     width: 150px;
     border: white solid 5px;
 `;
+
+export const CustomDivider = styled.div`
+    margin-top: 25px;
+`;
